@@ -1,0 +1,26 @@
+# Core data science
+pandas>=2.2
+numpy>=2.0
+matplotlib>=3.9
+seaborn>=0.13
+openpyxl>=3.1
+
+# Machine learning
+scikit-learn>=1.5
+xgboost>=2.1
+
+# Chemistry
+rdkit>=2024.3
+
+# Model interpretation
+shap>=0.46
+
+# Deployment
+streamlit>=1.38
+
+# Notebook
+jupyter>=1.0
+ipykernel>=6.29
+
+# Utilities
+joblib>=1.4
